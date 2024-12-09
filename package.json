@@ -17,7 +17,7 @@
   "unpkg": "dist/slpvalidate.min.js",
   "dependencies": {
     "@types/big.js": "^4.0.5",
-    "big.js": "5.2.2"
+    "big.js": "6.2.2"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-typescript": "^0.1.3",
